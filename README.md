@@ -33,7 +33,6 @@ All the models were trained and evaluated using [Amazon](http://deepyeti.ucsd.ed
  | File | Description |
  |:---- | :---------- |
  | [Final Paper (ACL 2020 Format)]() | Final write-up and submission for review of analysis and findings in ACL 2020 format. |
- | [BERT embeddings generation](https://github.com/datasci-w266/2021-spring-assignment-sony-w/blob/project-submit/final/bert_embedding_colab.ipynb) | Jupyter notebook that outlines the generation of BERT embeddings on different pooling strategies. |
- | [Fine-tuning two-tower BERT model](https://github.com/datasci-w266/2021-spring-assignment-sony-w/blob/project-submit/final/bert_fine-tuning_training_colab.ipynb) | Jupyter notebook that outlines fine-tuning approach on two-tower BERT model. |
- | [Fine-tuning two-tower BERT + Transformer](https://github.com/datasci-w266/2021-spring-assignment-sony-w/blob/project-submit/final/bert-transformer_fine-tuning_training_colab.ipynb) | Jupyter notebook that outlines fine-tuning approach on two-tower BERT + Transformer model. |
- 
+ | [BERT embeddings generation](https://github.com/sony-w/RecommendationTransformer/blob/main/bert_embedding_colab.ipynb) | Jupyter notebook that outlines the generation of BERT embeddings on different pooling strategies. |
+ | [Fine-tuning two-tower BERT model](https://github.com/sony-w/RecommendationTransformer/blob/main/bert_fine-tuning_training_colab.ipynb) | Jupyter notebook that outlines fine-tuning approach on two-tower BERT model. |
+ | [Fine-tuning two-tower BERT + Transformer](https://github.com/sony-w/RecommendationTransformer/blob/main/bert-transformer_fine-tuning_training_colab.ipynb) | Jupyter notebook that outlines fine-tuning approach on two-tower BERT + Transformer model. |
