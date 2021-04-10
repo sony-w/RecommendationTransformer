@@ -1,0 +1,8 @@
+{
+  "license": "MIT",
+  "devDependencies": {
+    "python": "v3.7",
+    "tensorflow": "v2.4.1",
+    "transformers": "v4.5",
+  }
+}
