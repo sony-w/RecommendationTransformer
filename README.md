@@ -1,6 +1,8 @@
 Another (Ensemble) Transformer-Based Recommendation Model on Users-Items Interaction using Reviews
 =======================================
 
+![Github](https://img.shields.io/github/license/sony-w/RecommendationTransformer) ![Python version](https://img.shields.io/badge/python-v3.7-blue) ![Tensorflow version](https://img.shields.io/badge/tensorflow-v2.4.1-blue) ![Transformers version](https://img.shields.io/badge/transformers-v4.5-blue)
+
 #### Authors : [Triaji (Sony) Wicaksono](https://www.linkedin.com/in/triaji-cahyo-wicaksono-68a17029/) | [Sean Campos](https://www.linkedin.com/in/sean-campos/)
 
 <br>
